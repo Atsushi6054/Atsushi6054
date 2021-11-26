@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Atsushi6054
-- 👀 I’m interested in microbial interaction in water environment.
-- 🌱 I’m currently learning bioinformatics.
+- Hi, I’m @Atsushi6054
+- I’m interested in microbial interaction in water environment.
+- I’m currently learning bioinformatics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
